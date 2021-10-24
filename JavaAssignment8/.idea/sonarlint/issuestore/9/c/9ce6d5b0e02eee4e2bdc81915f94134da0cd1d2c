@@ -1,0 +1,13 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»ÊL
+g
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(®ş±Ã
+X
+java:S1854,"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8‹¿ØáÉ/
+I
+java:S1481,"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8”¿ØáÉ/
+]	java:S125/"<This block of commented-out lines of code should be removed.(«‡î¿úÿÿÿÿ8—¿ØáÉ/
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(ºûû7
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(®õŠ
+c
+java:S22590"AA "NullPointerException" could be thrown; "str" is nullable here.(•ñê…úÿÿÿÿ8 ¿ØáÉ/
